@@ -2,5 +2,9 @@
   {
     "package": "rworldmap",
     "oncran": true
+  },
+  {
+    "package": "rworldxtra",
+    "oncran": true
   }
 ]

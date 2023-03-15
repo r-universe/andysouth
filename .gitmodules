@@ -8,3 +8,8 @@
 	url = https://github.com/andysouth/rworldmap
 	shallow = true
 	registered = true
+[submodule "rworldxtra"]
+	path = rworldxtra
+	url = https://github.com/andysouth/rworldxtra
+	shallow = true
+	registered = true
